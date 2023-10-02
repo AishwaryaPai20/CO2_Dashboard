@@ -1,4 +1,4 @@
-# CO2_Dashboard
+# CO2 Dashboard
 
 ### Interactive visualization dashboard in Python with Panel
 
